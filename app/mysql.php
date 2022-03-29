@@ -1,3 +1,5 @@
 <?php
 
-/* TODO: CREAR BASE DE DATOS */
+class Mysql {
+    protected $data = [];
+}
