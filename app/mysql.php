@@ -10,4 +10,5 @@ class Mysql extends \Mysqli {
         'dbname' => 'uadeo',
         'port' => 3306
     ];
-}
+
+]
